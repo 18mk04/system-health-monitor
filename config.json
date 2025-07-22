@@ -1,0 +1,9 @@
+{
+  "cpu": 75,
+  "ram": 80,
+  "disk": 85,
+  "to": "marik7939@gmail.com",
+  "from": "kingmk271@gmail.com",
+  "smtp_server": "localhost",
+  "smtp_port": 25
+}
