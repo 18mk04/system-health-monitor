@@ -13,18 +13,6 @@ A lightweight system health monitoring tool using **Python** and **Bash** that t
 - ✅ Configurable settings through a `config.json` file  
 - ✅ Lightweight and easy to set up  
 
----
-
-## 📁 Project Structure
-
-\`\`\`
-.
-├── monitor.py         # Python script for system monitoring
-├── config.json        # Configurable thresholds and email settings
-├── monitor.sh         # Bash wrapper to run monitor.py
-├── setup_cron.sh      # Script to schedule monitor with cron
-└── README.md          # Documentation
-\`\`\`
 
 ---
 
